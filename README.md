@@ -1,5 +1,4 @@
 - 👋 Hi, I'm Catherine Miao
-- 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Engineering
 
 <!---
