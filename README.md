@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Catherine Miao
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking for a role as a Data Engineer
 
 <!---
 catherinedoudou/catherinedoudou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
